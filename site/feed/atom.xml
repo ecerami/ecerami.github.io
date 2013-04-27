@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>BioBits Blog</title>
+ <link href="http://gitwatcher.com/blog/feed/atom.xml" rel="self"/>
+ <link href="http://gitwatcher.com/blog/feed"/>
+ <updated>2013-04-26T20:33:51-04:00</updated>
+ <id>http://gitwatcher.com/blog/feed</id>
+ <author>
+   <name>Luca G. Soave</name>
+   <email>luca.soave@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Joy of Writing in Github</title>
+   <link href="http://gitwatcher.com/blog/joy-of-writing-in-github.html"/>
+   <updated>2013-04-26T00:00:00-04:00</updated>
+   <id>http://gitwatcher.com/blog/joy-of-writing-in-github.html</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Biobits is relaunched on Github</title>
+   <link href="http://gitwatcher.com/blog/biobits-launched.html"/>
+   <updated>2013-04-25T00:00:00-04:00</updated>
+   <id>http://gitwatcher.com/blog/biobits-launched.html</id>
+   <content type="html">&lt;p&gt;Biobits is back...&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

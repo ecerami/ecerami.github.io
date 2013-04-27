@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title.html
+destination: ../../public/blog
+auto: true
+exclude:
+  - Rakefile
+  - Gemfile
+  - .gitignore
+author: Ethan Cerami
+#gravatar: xxx
+#web: http://biobits.org
+email: cerami@gmail.com
+twitter: ecerami
+github: ecerami
+linkedin: ecerami
+base-url: /biobits
