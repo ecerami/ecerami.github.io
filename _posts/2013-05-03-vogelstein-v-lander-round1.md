@@ -10,7 +10,7 @@ tags:
 
 Last month, Bert Vogelstein (of Johns Hopkins) and Eric Lander (of the Broad Institute) published head-to-head reviews surveying the successes and future of cancer genomics.
 
-Lander and co-author Levy Garraway, offered a vision of an expansive frontier, a field just in its "infancy", and ripe with future promise.  Cancer genomics has given us much, and we have much work left to do -- thousands more samples, rare cancer types, metastatic samples, probing the "dark matter" of the cancer genome, and better profiling of resistance mutations. And, this is just the beginning.
+Lander and co-author Levi Garraway, offered a vision of an expansive frontier, a field just in its "infancy", and ripe with future promise.  Cancer genomics has given us much, and we have much work left to do -- thousands more samples, rare cancer types, metastatic samples, probing the "dark matter" of the cancer genome, and better profiling of resistance mutations. And, this is just the beginning.
 
 In sharp contrast, Vogelstein et. al offered a more measured vision, arguing that most recurrent drivers in most major cancer types have now been discovered.  The parts list is more or less complete, and the opportunity for discovering major new cancer genes is "plateauing".  We therefore need to move onto new opportunities, including more detailed cancer pathway analysis, earlier diagnostics, and better cancer prevention.  This is not a field in its infancy, as heralded by Lander.  It's a field that that’s only eight years old, but already winding down.  It’s time to move on.  Time for the next, new thing.
 
