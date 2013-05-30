@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:title.html
-destination: ../../public/blog
+destination: serve
 auto: true
 exclude:
   - Rakefile
@@ -8,7 +8,7 @@ exclude:
   - .gitignore
 author: Ethan Cerami
 #gravatar: xxx
-#web: http://biobits.org
+web: http://biobits.org
 email: cerami@gmail.com
 twitter: ecerami
 github: ecerami
