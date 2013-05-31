@@ -10,11 +10,22 @@
    <link rel="stylesheet" href="css/syntax.css" type="text/css" />
 
    <!-- Twitter Bootstrap CSS -->
-   <link href="css/bootstrap-combined.min.css" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="css/jquery.tocify.css" />
+	<link href="css/bootstrap-combined.min.css" rel="stylesheet">
+
+	<script src="js/jquery-1.8.3.min.js"></script>
+	<script src="js/jquery-ui-1.9.1.custom.min.js"></script>
+	<script src="js/jquery.tocify.min.js"></script>
 
 </head>
 
 <body>
+
+<script>
+$(function() {
+	var toc = $("#toc").tocify({ selectors:  "h2,h3", scrollTo:40,highlightOffset:50 });
+});
+</script>
 
   <div id="page">
 
@@ -51,31 +62,7 @@
             {{ content }}
           </div>
           <nav class="span3">
-            <div id="social networks" class="rss twitter" >
-              <a href="https://twitter.com/ecerami">
-                <img src="img/icons_32x32px/twitter_1.png" alt="Follow me on Twitter" />
-              </a>
-            </div>
-            <h3>Recent Posts</h3>
-            <hr />
-            <div id="posts">
-              {% for post in site.posts limit:10%}
-                <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-              {% endfor %}
-            </div>
-            <hr>
-			<h3>About</h3>
-			Ethan Cerami, Ph.D. is a computational biologist
-			at <a href="http://blueprintmedicines.com">Blueprint Medicines</a>, in Cambridge, MA.
-            <hr>
-			<h3>Creative Commons</h3>
-            <div id="posts">
-              <p><a href="https://github.com/ecerami/samtools_primer">SAMtools:  A Primer</a></p>
-            </div>
-			<hr />
-
-            <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
-			
+            <div id="toc"></div>
           </nav>
         </div>
       </div>
