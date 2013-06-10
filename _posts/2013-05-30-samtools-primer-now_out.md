@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: SAMtools - A Primer is now out
+title: SAMtools Primer is now out
 ---
 
 My tutorial, [SAMtools:  A Primer](samtools_primer.html) is now available online.  My hope is that the primer eases some of the "information pain" usually associated with learning next-generation sequence analysis.  To that end, the primer is completely self-contained — you only need to install SAMtools, and the tutorial section walks you through a complete next-generation sequence analysis work-flow.  
