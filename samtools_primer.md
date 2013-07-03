@@ -1,9 +1,9 @@
 ---
 layout: long_read
-title: SAMtools - A Primer 
+title: SAMtools - Primer / Tutorial
 ---
 
-# SAMtools:  A Primer
+# SAMtools:  Primer / Tutorial
 
 by Ethan Cerami, Ph.D.
 
