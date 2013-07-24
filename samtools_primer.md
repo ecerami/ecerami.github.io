@@ -12,9 +12,8 @@ by Ethan Cerami, Ph.D.
 
 ## Revisions ##
 
-* 0.1:  April 23, 2013:  Work in progress; not ready for release.
-* 0.2:  May 27, 2013:  Nearing a final draft.  Opening for public comment.
 * 1.0:  May 30, 2013:  First public release on [biobits.org](http://biobits.org).
+* 1.1:  July 24, 2013:  Updated with Disqus Comments / Feedback section.
 
 ## About ##
 
