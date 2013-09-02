@@ -10,6 +10,17 @@ Last month, 70 health care, research and disease advocacy groups announced the f
 
 The global alliance aims to tackle a problem we have simply never had before, namely millions of people will soon have their genome sequenced, but we have no standards for sharing genomic or clinical data.  With widely adopted standards, researchers could mine integrated data sets to make novel scientific discoveries and improve human health.
 
+<div class="sidebar-left">
+	<p><b>Recommended Reading:</b>
+	<p>
+	<ul>
+		<li>Global Alliance Whitepaper: <a href="http://www.broadinstitute.org/files/news/pdfs/GAWhitePaperJune3.pdf">Creating a Global Alliance to Enable Responsible Sharing of Genomic and Clinical Data</a>.
+		<li>David Haussler, et. al, <a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html">A Million Cancer Genome Warehouse.</a>
+		<li>Alon Halevy, et. al, <a href="http://www.computer.org/csdl/mags/ex/2009/02/mex2009020008-abs.html">The Unreasonable Effectiveness of Data.</a>  IEEE Intelligent Systems, Volume 24 Issue 2, March 2009.
+		<li>Steven E. Brenner,  <a href="http://www.nature.com/news/be-prepared-for-the-big-genome-leak-1.13173">Be prepared for the big genome leak.</a> Nature, 12 June 2013.  
+	</ul>
+</div>
+
 To capitalize on the opportunity, the global alliance will be established as a not-for-profit association (modeled after the World Wide Web Consortium W3C), that will develop common, open and ethically responsible standards for sharing genomic and clinical data. Multiple prominent organizations are also behind the effort, including the Broad Institute, the American Association for Cancer Research (AACR), Cancer Research UK, the U.S. National Institutes of Health and the Wellcome Trust Sanger Institute.
 
 At this point, each of the member organizations has signed a "letter of intent" to join the global alliance and create the not-for-profit association. However, it’s important to note that the letters are "non-binding", meaning that no organization has actually agreed to share any data or adopt any specific protocol for sharing. There is no shared database anywhere. And, despite the considerable press ([New York Times](http://www.nytimes.com/2013/06/06/health/global-partners-agree-on-sharing-trove-of-genetic-data.html?smid=pl-share&_r=0), [Bloomberg](http://www.bloomberg.com/news/2013-06-05/scientists-seek-order-to-potential-confusion-of-gene-data.html), [Guardian](http://www.guardian.co.uk/uk/2013/jun/05/dna-genetic-data-shared-medical-research), and [Nature News](http://www.nature.com/news/geneticists-push-for-global-data-sharing-1.13133)), and even a [White House commendation](http://www.broadinstitute.org/blog/white-house-selects-david-altshuler-%E2%80%9Cchampion-change%E2%80%9D), the alliance has not yet exchanged a single byte of data. 

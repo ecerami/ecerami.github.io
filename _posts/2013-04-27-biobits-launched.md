@@ -10,7 +10,10 @@ Six weeks ago, I realized that I really missed writing.
 
 Writing used to consume many of my waking hours, and I always enjoyed every step of the process, from finding and evaluating topics, to creating sample code, and organizing research notes, to the actual writing and editing process.
 
-<img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/github.jpg" align=left style="padding:20px">
+<div class="photo-left">
+	<img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/github.jpg">
+	<p>Yes, biobits.org is moving to <a href="http://pages.github.com/">github pages</a>.</p>
+</div>
 
 I am not sure why it is usually so satisfying, but it is the single best way I know to deeply learn a topic, and to connect to a wider community.  
 

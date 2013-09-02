@@ -67,3 +67,50 @@
 #content p {
   margin-bottom:20px;    
 }
+
+.photo-right {
+	width:220px;
+	float: right;
+	padding:10px;
+	background-color:#dddddd;
+	margin-left:20px;
+	font-size:80%;
+}
+
+.photo-left {
+	width:220px;
+	float: left;
+	padding:10px;
+	background-color:#dddddd;
+	margin-right:20px;
+	font-size:80%;
+}
+
+.photo-left img {
+	width:220px;
+}
+
+.photo-right img {
+	width:220px;
+}
+
+.photo-left p {
+	margin-bottom: 0px !important;
+}
+
+.photo-right p {
+	margin-bottom: 0px !important;
+}
+
+.sidebar-left {
+	width:220px;
+	float: left;
+	padding:10px;
+	background-color:#dddddd;
+	margin-right:20px;
+	font-size:80%;
+}
+
+.sidebar-left p {
+	margin-bottom: 5px !important;
+}
