@@ -39,6 +39,10 @@ Nonetheless, genomic data does not come without risks (see next section), and it
 
 In the realm of cancer genomics, we also have at least eight years of initial data points.  For example, next year, the Cancer Genome Atlas (TCGA) project wraps up its goals of profiling 20 cancer types with at least 500 samples each.  Despite the herculean efforts of TCGA, critics have already started to make the case that it and other large-scale sequencing efforts have actually yielded surprisingly few clinically actionable results.  For example, Michael Yaffe of MIT has argued that large-scale sequencing has been "pretty disappointing", and that we have "learned little regarding cancer treatment that we did not already know."[4]  Others, including Bert Vogelstein of Johns Hopkins University have argued that cancer genomics is "plateauing", and that the same cancer drivers "keep being 'rediscovered' in different cancer types."[5]  Even several members of the NCI's own Board of Scientific Advisors, many of whom have been strong proponents of TCGA, have spoken of "diminishing returns" from more cancer genomes [6].
 
+<div class="quote-right">
+Without clear priorities and quantitative constraints, the global alliance could put itself on a large-scale dragnet approach to integrating genomes with very little hope of medical progress, but very real risk to genomic privacy.
+</div>
+
 As discussed in a [previous blog post](http://biobits.org/vogelstein-v-lander-round1.html), not everyone agrees with these assessments.  But, it is a critically important debate, because individual patients and society at large need to make a calculated trade off between potential rewards and risks.  One of the first main challenges of the global alliance is to therefore clearly identify areas of human health where sharing of integrating data sets can result in meaningful medical progress.  Ideally, the alliance can help prioritize specific areas of human health, quantify sample sizes where progress can be made, and work to integrate this information into the informed consent process.
 
 Without clear priorities and quantitative constraints, the global alliance could put itself on a large-scale dragnet approach to integrating genomes with very little hope of medical progress, but very real risk to genomic privacy.
@@ -64,6 +68,10 @@ Lastly, the breaching of genomic privacy is still largely uncharted legal territ
 ## Challenge 3:  Equity
 
 The final, big challenge likely to face the global alliance is equity:  how, specifically to ensure that the fruits of genomic research flow to all segments of society.  I readily admit that the open, informed consent pioneered by the Personal Genome Project (PGP) has a certain logical, ethical and honest appeal.  According to the PGP, there is no way to ensure genomic confidentiality, and PGP participants can only enroll with this full understanding.  According to the original proposal, “initial participants should be diverse, yet very familiar with research on human subjects, genetics, information technology and ELSI [Ethical, Legal, and Social Implications]." [10]  Would-be participants even need to take a test and score 100% to prove their understanding.  
+
+<div class="quote-right">
+If we focus on genomically profiling only one segment of society, there is a real possibility that medical benefits likewise only flow back to these same people.	
+</div>
 
 As logically alluring as it sounds, the Personal Genome Project is akin to the Platonic ideal, great in theory, but one in which only the "Philosopher Kings" are eligible to participate.  Furthermore, as Francis Collins, now director of the NIH has previously argued, "[projects, such as the PGP] might actually introduce bias or focus specifically on people with ... a lot of resources because those are often the people who are least worried about the [genomic] discrimination issue."[12]  The PGP has even openly admitted to its bias in subject participation, noting in a recent blog post that "we don’t have a very balanced set of participants... to put it bluntly, that means we mostly end up with young white men." [13]  
 
