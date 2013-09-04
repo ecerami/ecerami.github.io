@@ -47,11 +47,15 @@ As discussed in a [previous blog post](http://biobits.org/vogelstein-v-lander-ro
 
 Without clear priorities and quantitative constraints, the global alliance could put itself on a large-scale dragnet approach to integrating genomes with very little hope of medical progress, but very real risk to genomic privacy.
 
-# Challenge 2:  Privacy
+## Challenge 2:  Privacy
 
 Regardless of how you may feel about Edward Snowden and recent revelations regarding the NSA, the "Snowden affair" has fundamentally altered the debate regarding personal information and privacy within this country.  
 
 It has done so in two specific ways.  First, it has raised the specter of people using your personal data (genomic or otherwise) in ways you never imagined, causing a segment of the public to grow increasingly suspicious of large-scale data integration efforts.  Second, it has reinforced the reality that no system, even the NSA, is ever 100% secure.  In fact, insiders may represent the largest security threat, and Steven Brenner of U.C. Berkeley has recently pondered how long we have until the genomics community faces its own Snowden: "an idealistic and technically literate researcher" who deliberately "releases genome and trait information publicly in the name of science." [7]
+
+<div class="quote-right">
+	There are also some, including most famously, George Church of Harvard, who believe that it is futile and even dishonest to promise participants that their genomic data can be kept under lock and key.
+</div>
 
 Even before the Snowden affair, however, genomic privacy was already set to be the greatest challenge faced by the global alliance.  The challenge arises because there is an inherent and perhaps insurmountable conflict between the sharing of genomic data and the protection of patient privacy.  As one commentator in PLoS genetics has written:  "making data available to many intelligent minds maximizes the likelihood that benefits of research will rapidly be returned to society, but also maximizes opportunity for breaching the duty of privacy to research participants." [8]
 
