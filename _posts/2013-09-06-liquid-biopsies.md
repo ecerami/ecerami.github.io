@@ -11,7 +11,7 @@ Open any standard cell biology textbook, and you are likely to see a similar dia
 
 <div class="photo-left">
 	<a href="https://raw.github.com/ecerami/ecerami.github.io/master/img/liquid_biopsy.jpg"><img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/liquid_biopsy.jpg"></a>
-	<p>A group from the Cancer Research UK has successfully applied whole exome sequencing to serial liquid biopsies to identify causes of acquired resistance in multiple cancer types.  Image from:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23563269">M Murtaza, et. al</a>  Nature. 2013 May 2;497(7447):108-12.</p>
+	<p>A group from the Cancer Research UK has successfully applied whole exome sequencing to serial liquid biopsies to identify causes of acquired resistance in multiple cancer types.  Image from:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23563269">M Murtaza, et al.</a>  Nature. 2013 May 2;497(7447):108-12.</p>
 </div>
 
 Except, of course, when it's not.  In 1948, two researchers P. Mandel and P. Metais made the startling discovery that human blood contains free-floating or cell-free DNA [1].  This "naked" DNA, now dubbed circulating free DNA or cfDNA exists is all of us, but researchers have since discovered that certain disease conditions, including rheumatoid arthritis, pancreatitis and cancer can result in increased levels of cfDNA.  Where and how this naked DNA originates is still an active area of research, but most now believe it is the result of dying cells releasing their DNA into surrounding tissues.  There is also evidence, although no clearly defined mechanism, by which living cells actively shed DNA into circulation [2].
@@ -24,16 +24,16 @@ Multiple applications are on the horizon for liquid biopsies, including the earl
 	<p><b>Recommended Reading:</b>
 	<p>
 		<ul>
-			<li>Diaz LA Jr, et. al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22722843">The molecular evolution of acquired resistance to targeted EGFR blockade in colorectal cancers.</a>  Nature. 2012 Jun 28;486(7404):537-40.</li>
-			<li>M Murtaza, et. al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23563269">Non-invasive analysis of acquired resistance to cancer therapy by sequencing of plasma DNA.</a>  Nature. 2013 May 2;497(7447):108-12.</li>
-			<li>Emily Crowley, et. al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23836314">Liquid biopsy:  monitoring cancer-genetics in the blood.</a>  Nature Reviews Oncology, July 9, 2013.
+			<li>Diaz LA Jr, et al., <a href="http://www.ncbi.nlm.nih.gov/pubmed/22722843">The molecular evolution of acquired resistance to targeted EGFR blockade in colorectal cancers.</a>  Nature. 2012 Jun 28;486(7404):537-40.</li>
+			<li>M Murtaza, et al., <a href="http://www.ncbi.nlm.nih.gov/pubmed/23563269">Non-invasive analysis of acquired resistance to cancer therapy by sequencing of plasma DNA.</a>  Nature. 2013 May 2;497(7447):108-12.</li>
+			<li>Emily Crowley, et al., <a href="http://www.ncbi.nlm.nih.gov/pubmed/23836314">Liquid biopsy:  monitoring cancer-genetics in the blood.</a>  Nature Reviews Oncology, July 9, 2013.
 			</li>
 		</ul>
 </div>
 
 The promise, of course, is that one could apply a targeted therapy, use serial liquid biopsies to determine and identify the cause of acquired resistance, and then apply a newly refined targeted therapy.  Or, do this with enough patients to identify specific trends in resistance, and apply multiple targeted therapies in combination in anticipation of acquired resistance.
 
-Last year, L. Diaz et. al. from Johns Hopkins University reported one of the most successful applications of liquid biopsies to the study of acquired resistance [4].  The study focused on identifying the mechanism of resistance to panitumumab, an anti-EGFR antibody treatment used to treat colorectal cancer.  The study followed 24 KRAS wild-type patients receiving panitumumab therapy, and liquid biopsies were obtained and analyzed every four weeks.  Only common mutations at codons 12 and 13 of KRAS and codons 600 and 601 in BRAF were assessed.  Nine of 24 patients (38%), were found to develop resistance mutations in KRAS, and even more significantly, 3 of the 9 patients showed KRAS resistance before any radiographic evidence of disease progression.
+Last year, L. Diaz et al. from Johns Hopkins University reported one of the most successful applications of liquid biopsies to the study of acquired resistance [4].  The study focused on identifying the mechanism of resistance to panitumumab, an anti-EGFR antibody treatment used to treat colorectal cancer.  The study followed 24 KRAS wild-type patients receiving panitumumab therapy, and liquid biopsies were obtained and analyzed every four weeks.  Only common mutations at codons 12 and 13 of KRAS and codons 600 and 601 in BRAF were assessed.  Nine of 24 patients (38%), were found to develop resistance mutations in KRAS, and even more significantly, 3 of the 9 patients showed KRAS resistance before any radiographic evidence of disease progression.
 
 Fast forward one year, and a group from Cancer Research UK has published another more extensive study of liquid biopsies and resistance in multiple cancer types, including breast, ovarian and lung [5].  In contrast to the Hopkins study, however, which focused exclusively on a small set of mutations in just two genes, the Cancer Research UK study performed whole exome sequencing on serial liquid biopsies.  In doing so, the group was able to identify multiple mechanisms of resistance -- for example, development of activating PIK3CA mutations in a breast cancer patient being treated with paclitaxel; and an activating EGFR T790M mutation in a non-small cell lung cancer patient being treated with gefitinib.
 
@@ -49,6 +49,6 @@ The studies also illustrate just how far the scientific and medical communities 
 
 [3] Carl Zimmer, **Studying Tumors Differently, in Hopes of Outsmarting Them**, New York Times, June 27, 2013.  [<a href="http://www.nytimes.com/2013/06/27/science/studying-tumors-differently-in-hopes-of-outsmarting-them.html?_r=0">Link</a>]
 
-[4]  Diaz LA Jr, et. al, **The molecular evolution of acquired resistance to targeted EGFR blockade in colorectal cancers.**  Nature. 2012 Jun 28;486(7404):537-40.  [<a href="http://www.ncbi.nlm.nih.gov/pubmed/22722843">PubMed</a>]
+[4]  Diaz LA Jr, et al., **The molecular evolution of acquired resistance to targeted EGFR blockade in colorectal cancers.**  Nature. 2012 Jun 28;486(7404):537-40.  [<a href="http://www.ncbi.nlm.nih.gov/pubmed/22722843">PubMed</a>]
 
-[5]  M Murtaza, et. al, **Non-invasive analysis of acquired resistance to cancer therapy by sequencing of plasma DNA.**  Nature. 2013 May 2;497(7447):108-12. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23563269">PubMed</a>]
+[5]  M Murtaza, et al., **Non-invasive analysis of acquired resistance to cancer therapy by sequencing of plasma DNA.**  Nature. 2013 May 2;497(7447):108-12. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23563269">PubMed</a>]

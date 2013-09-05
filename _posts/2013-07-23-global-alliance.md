@@ -15,8 +15,8 @@ The global alliance aims to tackle a problem we have simply never had before, na
 	<p>
 	<ul>
 		<li>Global Alliance Whitepaper: <a href="http://www.broadinstitute.org/files/news/pdfs/GAWhitePaperJune3.pdf">Creating a Global Alliance to Enable Responsible Sharing of Genomic and Clinical Data</a>.
-		<li>David Haussler, et. al, <a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html">A Million Cancer Genome Warehouse.</a>
-		<li>Alon Halevy, et. al, <a href="http://www.computer.org/csdl/mags/ex/2009/02/mex2009020008-abs.html">The Unreasonable Effectiveness of Data.</a>  IEEE Intelligent Systems, Volume 24 Issue 2, March 2009.
+		<li>David Haussler, et al., <a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html">A Million Cancer Genome Warehouse.</a>
+		<li>Alon Halevy, et al., <a href="http://www.computer.org/csdl/mags/ex/2009/02/mex2009020008-abs.html">The Unreasonable Effectiveness of Data.</a>  IEEE Intelligent Systems, Volume 24 Issue 2, March 2009.
 		<li>Steven E. Brenner,  <a href="http://www.nature.com/news/be-prepared-for-the-big-genome-leak-1.13173">Be prepared for the big genome leak.</a> Nature, 12 June 2013.  
 	</ul>
 </div>
@@ -33,7 +33,7 @@ As the alliance gets off the ground, it will need to contend with multiple confl
 
 According to the global alliance white paper, "by aggregating and analyzing large amounts of genomic and clinical data, it should be possible to discover patterns that would otherwise remain obscure... data from millions of samples will be needed".[1]
 
-Another recent white paper from David Haussler et. al has posited the creation of a 1 million cancer genome warehouse, arguing that without such a "large, aggregated database we lack statistical power."[2]  The "Big Data" movement has also had a considerable impact on the debate regarding sample size.  A paper by Google researchers on "The Unreasonable Effectiveness of Data" -- which has become a oft-cited manifesto for "Big Data" -- makes a convincing case that "web-scale" data sets enable new computational insights, and that "simple models and lots of data trump more elaborate models based on less data."[3]
+Another recent white paper from David Haussler et al. has posited the creation of a 1 million cancer genome warehouse, arguing that without such a "large, aggregated database we lack statistical power."[2]  The "Big Data" movement has also had a considerable impact on the debate regarding sample size.  A paper by Google researchers on "The Unreasonable Effectiveness of Data" -- which has become a oft-cited manifesto for "Big Data" -- makes a convincing case that "web-scale" data sets enable new computational insights, and that "simple models and lots of data trump more elaborate models based on less data."[3]
 
 Nonetheless, genomic data does not come without risks (see next section), and it is therefore reasonable to ask how many samples we need to share in order to make meaningful progress against specific human diseases. 
 
@@ -103,7 +103,7 @@ As David Altshuler of the Broad Institute and one of the principal organizers of
 
 [8] P3G Consortium, Church G, Heeney C, Hawkins N, de Vries J, et al. (2009) **Public Access to Genome-Wide Data: Five Views on Balancing Research with Privacy and Protection**. *PLoS Genet* 5(10).  [Reference](http://dx.plos.org/10.1371/journal.pgen.1000665).
 
-[9] For recent examples, see:  Homer N, et. al, **Resolving individuals contributing trace amounts of DNA to highly complex mixtures using high-density SNP genotyping microarrays**, *PLOS Genetics*, 2008 Aug 29;4(8);  and Gymrek M, et. al, **Identifying personal genomes by surname inference.**  *Science*, 2013 Jan 18;339.
+[9] For recent examples, see:  Homer N, et al., **Resolving individuals contributing trace amounts of DNA to highly complex mixtures using high-density SNP genotyping microarrays**, *PLOS Genetics*, 2008 Aug 29;4(8);  and Gymrek M, et al., **Identifying personal genomes by surname inference.**  *Science*, 2013 Jan 18;339.
 
 [10] George Church, **The Personal Genome Project**, Molecular Systems Biology 2005.  [Reference](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1681452/).
 
