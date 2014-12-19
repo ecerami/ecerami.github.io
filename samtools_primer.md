@@ -14,6 +14,10 @@ by Ethan Cerami, Ph.D.
 
 * 1.0:  May 30, 2013:  First public release on [biobits.org](http://biobits.org).
 * 1.1:  July 24, 2013:  Updated with Disqus Comments / Feedback section.
+* 1.2:  December 19, 2014:  Multiple updates, including:
+	* Updated to use samtools 1.1 and bcftools 1.2.
+	* Updated usage for bcftools.
+
 
 ## About ##
 
@@ -41,22 +45,26 @@ Next-generation sequencing refers to new, high-throughput technologies for seque
 
 SAMtools fits in at steps 4 and 5.  Most importantly, it can process aligned sequence reads, and manipulate them with ease.  For example, it can convert between the two most common file formats (SAM and BAM), sort and index files (for speedy retrieval later), and extract specific genomic regions of interest.  It also enables quality checking of reads, and automatic identification of genomic variants.
 
-## Installing SAMtools
+## Installing SAMtools, bcftools
 
-To get started, download the SAMtools source code from [SourceForge.net](http://sourceforge.net/projects/samtools/files/).  Then, unzip and unpack the distribution to your preferred location &ndash;&ndash; for example, I have placed SAMtools at:  ~/libraries/samtools-0.1.19/.
+To get started, download the SAMtools source code from: [www.htslib.org](http://www.htslib.org/download/).  Then, unzip and unpack the distribution to your preferred location &ndash;&ndash; for example, I have placed SAMtools at:  `~/libraries/samtools-1.1/`.
 
-Samtools is written in C, compiled with gcc and make, and has only two dependencies:  the [GNU curses library](http://www.gnu.org/software/ncurses/), and the [ZLib compression library](http://zlib.net/).  If you are using a modern variant of Linux or MacOS X, you probably already have these libraries installed.
+SAMtools is written in C, compiled with gcc and make, and has only two dependencies:  the [GNU curses library](http://www.gnu.org/software/ncurses/), and the [ZLib compression library](http://zlib.net/).  If you are using a modern variant of Linux or MacOS X, you probably already have these libraries installed.
 
 To build SAMtools, type:
 
 	make
-	
-Then, add the executables to your path.  For example, I have modified my `.bash_profile` like so:
 
-	export SAMTOOLS_HOME=/Users/ecerami/libraries/samtools-0.1.19
-	export PATH=$SAMTOOLS_HOME:$PATH
-	export PATH=$SAMTOOLS_HOME/bcftools/:$PATH
-	export PATH=$SAMTOOLS_HOME/misc/:$PATH
+Next, download the bcftools source code, also from: [www.htslib.org](http://www.htslib.org/download/).  As with SAMtools, unzip and unpack to your preferred location -- for example, I have placed bcftools at:  `~/libraries/bcftools-1.1/`.
+
+To build bcftools, type:
+
+	make
+	
+Then, add the samtools and bcftools executables to your path.  For example, I have modified my `.bash_profile` like so:
+
+	export PATH=/Users/ecerami/libraries/samtools-1.1:$PATH
+	export PATH=/Users/ecerami/libraries/bcftools-1.1:$PATH
 
 As an optional, but recommended step, copy the man page for `samtools.1` to one of your man page directories [1]. 
 
@@ -84,9 +92,9 @@ The command line usage for wgsim is:
   
 By default, wgsim reads in a reference genome in the **FASTA** format, and generates simulated **paired-end** reads in the **FASTQ** format.
 
-If you specify the full [*E. coli* genome](https://raw.github.com/ecerami/samtools_primer/master/tutorial/genomes/NC_008253.fna), wgsim will generate simulated reads across the entire genome.  However, for the tutorial, I chose to restrict the simulated reads to just the first 1,000 bases of the *E. coli* genome.  To do so, I  extracted the first 1K bases of the *E. coli* genome, placed these within a new file:  [NC_008253_truncated.fna](https://raw.github.com/ecerami/samtools_primer/master/tutorial/genomes/NC_008253_1K.fna), and ran:
+If you specify the full [*E. coli* genome](https://raw.github.com/ecerami/samtools_primer/master/tutorial/genomes/NC_008253.fna), wgsim will generate simulated reads across the entire genome.  However, for the tutorial, I chose to restrict the simulated reads to just the first 1,000 bases of the *E. coli* genome.  To do so, I  extracted the first 1K bases of the *E. coli* genome, placed these within a new file:  [NC_008253__1K.fna](https://raw.github.com/ecerami/samtools_primer/master/tutorial/genomes/NC_008253_1K.fna), and ran:
 
-	wgsim -N1000 -S1 genomes/NC_008253_truncated.fna output/sim_reads.fq /dev/null
+	wgsim -N1000 -S1 genomes/NC_008253_1K.fna simulated_reads/sim_reads.fq /dev/null
 	
 Command line options are described below:
 
@@ -346,18 +354,18 @@ The first step is to use the SAMtools `mpileup` command to calculate the **genot
 
 The `mpileup` command automatically scans every position supported by an aligned read, computes all the possible genotypes supported by these reads, and then computes the probability that each of these genotypes is truly present in our sample.
 
-In our case, SAMtools scans the first 1000 bases in the *E. coli* genome, and the weighs the collective evidence of all reads to infer the true genotype.  For example, position 42 (reference = G) has 24 reads with a G and two reads with a T (total **read depth** = 26).  In this case, SAMtools concludes with high probability that the sample has a genotype of G, and that T reads are likely due to sequencing errors.  
+In our case, SAMtools scans the first 1000 bases in the *E. coli* genome, and then weighs the collective evidence of all reads to infer the true genotype.  For example, position 42 (reference = G) has 24 reads with a G and two reads with a T (total **read depth** = 26).  In this case, SAMtools concludes with high probability that the sample has a genotype of G, and that T reads are likely due to sequencing errors.  
 
 By contrast, position 736 (reference = T) has 2 reads with a C and 66 reads with a G (total **read depth** = 68).  In this case, SAMtools concludes with high probability that the sample has a genotype of G.  For each position assayed, SAMtools computes all the possible genotypes, and then outputs all the results in the **binary call format (BCF)**.
 
-The second step is to use `bcftools`, which is packaged with SAMtools, but located in the `bcftools` directory:
+The second step is to use `bcftools`:
 
-	bcftools view -c -v variants/sim_variants.bcf > variants/sim_variants.vcf
+	bcftools call -c -v variants/sim_variants.bcf > variants/sim_variants.vcf
 
 * `-c`:  directs bcftools to call SNPs.
 * `-v`:  directs bcftools to only output potential variants
 
-The `bcftools view` command uses the genotype likelihoods generated from the previous step to call SNPs and indels, and outputs the all identified variants in the **variant call format (VFC)**, the file format created for the [1000 Genomes Project](http://www.1000genomes.org/), and now widely used to represent genomic variants.
+The `bcftools call` command uses the genotype likelihoods generated from the previous step to call SNPs and indels, and outputs the all identified variants in the **variant call format (VFC)**, the file format created for the [1000 Genomes Project](http://www.1000genomes.org/), and now widely used to represent genomic variants.
 
 ### Understanding the VCF Format
 
