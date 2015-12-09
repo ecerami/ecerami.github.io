@@ -17,14 +17,14 @@ On December 7 and 8, we organized our first ever <a href="http://www.cbioportal.
 
 The Hackathon was hosted at DFCI in Boston.  All told, they were 15 of us, broken out into four teams.
 
-**Team 1:  Data Validation and Importing.**  Tasked with improving the validation and loading of new data sets into the cBioPortal.  Succeeded in extending the existing validator, adding an HTML report option, and made good progress to an overall single script for validating / importing new data sets.
-
-**Team 2:  Performance.**  Tasked with identifying performance bottlenecks in the current code, and working their way through these bottlenecks.  Succeeded in identifying and fixing a number of front-end performance bottlenecks.
-
 <div class="photo-left">
 	<a href="https://raw.github.com/ecerami/ecerami.github.io/master/img/hackathon1.png"><img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/hackathon1.png"></a>
 	<p>Pieter Lukasse from The Hyve and Adam Abeshouse from MSKCC presenting performance improvements to the cBioPortal.</a></p>
 </div>
+
+**Team 1:  Data Validation and Importing.**  Tasked with improving the validation and loading of new data sets into the cBioPortal.  Succeeded in extending the existing validator, adding an HTML report option, and made good progress to an overall single script for validating / importing new data sets.
+
+**Team 2:  Performance.**  Tasked with identifying performance bottlenecks in the current code, and working their way through these bottlenecks.  Succeeded in identifying and fixing a number of front-end performance bottlenecks.
 
 **Team 3:  Virtual Cohort Front-End. ** Tasked with building a new "virtual cohort" feature for selecting samples across multiple cancer studies or across multiple cancer types.  Succeeded in defining <a href="https://docs.google.com/document/d/1UNUii4WCpcMxNsu6CA6uJIGq1xcY7sHWorzVt2MJ38I/edit">RFC 16</a>, and building first prototype of functionality.
 
