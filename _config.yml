@@ -1,4 +1,3 @@
-markdown: rdiscount
 permalink: /:title.html
 destination: serve
 exclude:
