@@ -21,20 +21,26 @@ First, this will only work in the latest version of bokeh.  If you are using pip
 
 Second, to set up your application, run:
 
+~~~ python
     handler = FunctionHandler(modify_doc)
     app = Application(handler)
+~~~
 
 The first line sets up a `FunctionHandler` with a local method that defines your application document.  Within this function, you define your plots and controls.  In my case, I am using a color-coded[Histogram plot](http://bokeh.pydata.org/en/latest/docs/reference/charts.html#histogram "Histogram plot") and a single [Select ](http://bokeh.pydata.org/en/latest/docs/reference/models/widgets.inputs.html "Select")widget.  Additionally, when a user selects an option from the drop-down menu, the `update() `method is called.  The second line initializes your application within a Python [Tornado](http://www.tornadoweb.org/en/stable/ "Torndao") server, automatically wrapped by Bokeh.
 
 Third, although not strictly necessary, I found it helpful to create the application document explicitly:
 
+~~~ python
 	doc = app.create_document()
+~~~
 
 This aids in debugging your application.  Otherwise, the application document is created within Tornado, error messages are hidden from view, and you will not see any output.
 
 Finally, once your application is set-up, you can embed the application within Jupyter:
 
+~~~ python
 	show(app, notebook_url="localhost:8888")
+~~~
 
 One small gotcha here is that the `notebook_url` parameter must match the port of your Jupyter notebook server.  If you specify a different URL, you will not see any output.
 
