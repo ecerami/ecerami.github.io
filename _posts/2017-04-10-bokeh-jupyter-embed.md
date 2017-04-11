@@ -11,7 +11,7 @@ With the recent release of Bokeh version [0.12.5](https://bokeh.github.io/blog/2
 
 To illustrate the new functionality, I have put together a simple "Hello, World" application using the Iris data set, one of the most commonly used data sets in machine learning.  The application enables users to select a feature (Sepal Length, Sepal Width, Petal Length, or Petal Width) via a pull-down menu, and automatically displays a color-coded histogram for the chosen feature.  A screenshot of the application is shown below:
 
-![Bokeh Jupyter Embed](https://raw.githubusercontent.com/ecerami/ecerami.github.io/master/img/bokeh-jupyter-embed.gif)
+![Bokeh Jupyter Embed](https://raw.githubusercontent.com/ecerami/ecerami.github.io/master/img/bokeh-jupyter-embed2.gif)
 
 You can download the [notebook on github](https://github.com/ecerami/pydata-essentials/blob/master/bokeh/bokeh_notebook_embed.ipynb), or clone the [entire project](https://github.com/ecerami/pydata-essentials).
 
