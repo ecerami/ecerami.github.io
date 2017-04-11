@@ -8,7 +8,7 @@ tags:
 
 <div class="photo-right">
 	<a href="https://raw.github.com/ecerami/ecerami.github.io/master/img/hackathon2.png"><img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/hackathon2.png"></a>
-	<p>cBioPortal hackers hard at work.</a></p>
+	<p>cBioPortal hackers hard at work.</p>
 </div>
 
 
