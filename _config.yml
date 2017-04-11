@@ -1,4 +1,3 @@
-markdown: rdiscount
 permalink: /:title.html
 destination: serve
 exclude:
@@ -6,7 +5,6 @@ exclude:
   - Gemfile
   - .gitignore
 author: Ethan Cerami
-#gravatar: xxx
 web: http://biobits.org
 email: cerami@gmail.com
 twitter: ecerami
