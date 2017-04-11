@@ -19,7 +19,7 @@ The Hackathon was hosted at DFCI in Boston.  All told, they were 15 of us, broke
 
 <div class="photo-left">
 	<a href="https://raw.github.com/ecerami/ecerami.github.io/master/img/hackathon1.png"><img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/hackathon1.png"></a>
-	<p>Pieter Lukasse from The Hyve and Adam Abeshouse from MSKCC presenting performance improvements to the cBioPortal.</a></p>
+	<p>Pieter Lukasse from The Hyve and Adam Abeshouse from MSKCC presenting performance improvements to the cBioPortal.</p>
 </div>
 
 **Team 1:  Data Validation and Importing.**  Tasked with improving the validation and loading of new data sets into the cBioPortal.  Succeeded in extending the existing validator, adding an HTML report option, and made good progress to an overall single script for validating / importing new data sets.
