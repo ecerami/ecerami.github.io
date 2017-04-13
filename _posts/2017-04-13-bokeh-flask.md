@@ -166,7 +166,7 @@ Here are the most crucial points to note:
 </html>{% endraw %}
 ~~~
 
-The most critical point to note:
+The most critical points to note:
 
   * In the HTML header, I am loading the CSS and Javascript libraries for Bokeh via the pydata content distribution network (CDN).  Note that I am explicitly loading bokeh version 0.12.5.  Make sure that this matches your local Bokeh version (to upgrade, run:  `pip install -U bokeh`).
 
