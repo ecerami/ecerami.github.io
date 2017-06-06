@@ -8,8 +8,6 @@ tags:
 --- 
 As scientists, we spend most of our time asking, "what's next?", "what's new?".  We rarely spend enough time looking backward to learn or appreciate how we got here in the first place.  In the field of targeted cancer therapy, Jessica Wapner's [Philadelphia Chromosome](http://jessicawapner.com/the-philadelphia-chromosome/) offers us all a chance to look back, and to marvel at the enormous progress in cancer research over just the past fifty years.
 
-<img src="https://raw.github.com/ecerami/ecerami.github.io/master/img/wapner_book_cover.jpg" align=left style="padding:20px">
-
 Ostensibly, the "Philadelphia Chromosome" is about the development of Gleevec, the blockbuster drug developed by Novartis for treating Chronic myelogenous leukemia (CML).  As such, the book attempts to trace the scientific threads connecting the initial discovery of the Philadelphia Chromosome in CML patients in 1959 to the clinical development of Gleevec in the 1990s.  But, in doing so, it traces the full historical arc of modern cancer research:  the discovery of oncogenes by Michael Bishop and Harold Varmus, the identification of BCR/ABL as the gene fusion caused by the Philadelphia Chromosome, the discovery of protein kinases, the creation of cell lines, the development of kinase inhibitors, and even the development of resistance to targeted cancer therapies.  With thorough research and clear writing, Wapner traces each of these scientific threads, explaining how disparate fields of research combined to conquer CML.  In describing the early research on CML and cancer oncogenes, and in one of my favorite passages of the book, she writes:
 
 >The way the Philadelphia chromosome led to CML was a story that unfolded like a 

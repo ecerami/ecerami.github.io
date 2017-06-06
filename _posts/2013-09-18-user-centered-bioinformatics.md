@@ -10,14 +10,15 @@ tags:
 Usability is an often overlooked feature in bioinformatics software.  The result is that many bioinformatics tools remain underutilized, and many fail to reach their full potential.
 
 <div class="sidebar-left">
-	<p><b>Recommended Reading:</b>
+	<p><b>Recommended Reading:</b></p>
 	<p>
 		<ul>
 			<li>Katrina Pavelin, et al., <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002554">Bioinformatics Meets User-Centred Design: A Perspective.</a>  PLoS Comput Biol 8(7): e1002554, 2012.</li>
 			<li>P. de Matos, et al., <a href="http://www.biomedcentral.com/1471-2105/14/103">The Enzyme Portal: a case study in applying user-centred design methods in bioinformatics.</a>  BMC Bioinformatics 2013, 14:103.</li>
 			</li>
-			<li>S. Krug, <a href="http://www.amazon.com/Rocket-Surgery-Made-Easy-Do-It-Yourself/dp/0321657292">Rocket Surgery Made Easy:  The Do-It-Yourself Guide to Finding and Fixing Usability Problems.</a>  (New Riders, 2012).
+			<li>S. Krug, <a href="http://www.amazon.com/Rocket-Surgery-Made-Easy-Do-It-Yourself/dp/0321657292">Rocket Surgery Made Easy:  The Do-It-Yourself Guide to Finding and Fixing Usability Problems.</a>  (New Riders, 2012).</li>
 		</ul>
+	</p>
 </div>
 
 The EMBL European Bioinformatics Institute (EBI) is one of the few bioinformatics groups to specifically embrace usability and user-centered design in bioinformatics (see recommended reading).  Many of the group's recommendations are compelling, but it's hard to imagine most bioinformatics groups following the rigorous example put forth by the EBI &mdash; for example, putting in the overhead to define user "personae", conducting extensive user interviews, and setting up off-site workshops with potential users to define workflows.

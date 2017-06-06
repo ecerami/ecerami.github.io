@@ -8,19 +8,21 @@ tags:
 For those of us in the bioinformatics and genomics space, the advent of NoSQL databases offer multiple opportunities for storing "Big Data".  However, many of us are still grappling with the same set of questions:  when (if ever) does it make sense to switch over to NoSQL?  how much data does one need to justify a migration to NoSQL?  what types of genomic data sets and applications are ripe for NoSQL?  and, given the hundreds of NoSQL databases which now exist (see [nosql-database.org](http://nosql-database.org/)), which do you go with?
 
 <div class="sidebar-left">
-	<p><b>Recommended Reading:</b>
+	<p>
+		<b>Recommended Reading:</b>
+	</p>
 	<p>
 		<ul>
-			<li>NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence.  By Pramod J. Sadalage, Martin Fowler.  
-		<br>
+			<li>NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence.  By Pramod J. Sadalage, Martin Fowler.</li>
+		<br/>
 		<small>
 		[<a href="http://goo.gl/M8ctmq">Amazon.com</a>]
 		[<a href="http://martinfowler.com/nosql.html">Author web site</a>]
 		[<a href="http://martinfowler.com/articles/nosql-intro">NoSQL Info Deck</a>]
 		</small>
 		</ul>
+	</p>
 </div>
-
 
 None of these questions are easy, but if you are looking for a starting point to answering these questions on your own, I highly recommend [NoSQL:  Distilled](http://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620), by Pramod J. Sadalage and Martin Fowler.  [Martin Fowler](http://martinfowler.com/) is the author of several well-known computer software books, including a co-author of one of my favorites:  [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672).  
 

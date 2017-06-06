@@ -14,14 +14,15 @@ Lander and co-author Levi Garraway, offered a vision of an expansive frontier, a
 
 
 <div class="sidebar-left">
-	<p><b>Recommended Reading:</b>
+	<p><b>Recommended Reading:</b></p>
 	<p>
 		<ul>
-			<li><a href="http://www.sciencemag.org/content/339/6127/1546">Cancer Genome Landscapes</a>, by Bert Vogelstein, Nickolas Papadopoulos, Victor E. Velculescu, Shibin Zhou, Luis A. Diaz Jr., Kenneth W. Kinzler.  (Science 29 March 2013).
-			<li><a href="http://www.cell.com/abstract/S0092-8674(13)00288-2">Lessons from the Cancer Genome</a>, by Levi A. Garraway and Eric S. Lander (Cell, Volume 153, Issue 1, 17-37, 28 March 2013).
-			<li><a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1301689">Genomic and Epigenomic Landscapes of Adult De Novo Acute Myeloid Leukemia</a>, by The Cancer Genome Atlas Research Network (NEJM, May 1, 2013).
-			<li><a href="http://www.nejm.org/doi/full/10.1056/NEJMe1303816">The Beginning of the End of the Beginning in Cancer Genomics</a>, by David P. Steensma (NEJM, May 1, 2013)
+			<li><a href="http://www.sciencemag.org/content/339/6127/1546">Cancer Genome Landscapes</a>, by Bert Vogelstein, Nickolas Papadopoulos, Victor E. Velculescu, Shibin Zhou, Luis A. Diaz Jr., Kenneth W. Kinzler.  (Science 29 March 2013).</li>
+			<li><a href="http://www.cell.com/abstract/S0092-8674(13)00288-2">Lessons from the Cancer Genome</a>, by Levi A. Garraway and Eric S. Lander (Cell, Volume 153, Issue 1, 17-37, 28 March 2013).</li>
+			<li><a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1301689">Genomic and Epigenomic Landscapes of Adult De Novo Acute Myeloid Leukemia</a>, by The Cancer Genome Atlas Research Network (NEJM, May 1, 2013).</li>
+			<li><a href="http://www.nejm.org/doi/full/10.1056/NEJMe1303816">The Beginning of the End of the Beginning in Cancer Genomics</a>, by David P. Steensma (NEJM, May 1, 2013).</li>
 	</ul>
+	</p>
 </div>
 
 In sharp contrast, Vogelstein et al. offered a more measured vision, arguing that most recurrent drivers in most major cancer types have now been discovered.  The parts list is more or less complete, and the opportunity for discovering major new cancer genes is "plateauing".  We therefore need to move onto new opportunities, including more detailed cancer pathway analysis, earlier diagnostics, and better cancer prevention.  This is not a field in its infancy, as heralded by Lander.  It's a field that that’s only eight years old, but already winding down.  It’s time to move on.  Time for the next, new thing.

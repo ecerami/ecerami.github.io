@@ -7,7 +7,9 @@ This week marks a slightly different direction for biobits.org.  For some time, 
 
 
 <div class="sidebar-left">
-	<p><b>Recommended Reading:</b>
+	<p>
+		<b>Recommended Reading:</b>
+	</p>
 	<p>
 		<ul>
 			<li>David Tamborero, et al., <a href="http://www.nature.com/srep/2013/131002/srep02650/full/srep02650.html">Comprehensive identification of mutational cancer driver genes across 12 tumor types.</a> Scientific Reports, 2013.</li>
@@ -15,6 +17,7 @@ This week marks a slightly different direction for biobits.org.  For some time, 
 			<li>Tamborero D, et al., <a href="http://bioinformatics.oxfordjournals.org/content/29/18/2238.long">OncodriveCLUST: exploiting the positional clustering of somatic mutations to identify cancer genes</a>.  Bioinformatics. 2013.</li>
 			<li>Abel Gonzalez-Perez, et al., <a href="http://nar.oxfordjournals.org/content/40/21/e169.full?keytype=ref&ijkey=jWx48Ab6s74fm7I">Functional impact bias reveals cancer drivers</a>.  Nucleic Acids Research, 2012.</li>
 		</ul>
+	</p>
 </div>
 
 The first installment is an interview with <a href="http://bg.upf.edu/group/people/people.nuria.php">Nuria Lopez-Bigas</a>, from the <a href="http://bg.upf.edu/group/index.php">Biomedical Genomics group</a> at the <a href="http://www.upf.edu/">University Pompeu Fabra</a> in Barcelona.

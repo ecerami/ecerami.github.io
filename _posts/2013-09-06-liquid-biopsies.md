@@ -21,7 +21,7 @@ Combine the fact that tumors release naked DNA into the bloodstream with advance
 Multiple applications are on the horizon for liquid biopsies, including the early detection of cancer, and early detection of cancer recurrence.  The one area that has seen the greatest advance though is the use of liquid biopsies to identify the cause of acquired resistance, in response to targeted therapy.  Every known targeted therapy results in some form of acquired resistance.  Bert Vogelstein of Johns Hopkins University has famously called acquired resistance a "fait accompli" [3] -- even before targeted therapy begins, a pool of tumor cells already contain the very mutations required to circumvent the therapy, and it is just a matter of time before these cells are selected for, and assert themselves.
 
 <div class="sidebar-right">
-	<p><b>Recommended Reading:</b>
+	<p><b>Recommended Reading:</b></p>
 	<p>
 		<ul>
 			<li>Diaz LA Jr, et al., <a href="http://www.ncbi.nlm.nih.gov/pubmed/22722843">The molecular evolution of acquired resistance to targeted EGFR blockade in colorectal cancers.</a>  Nature. 2012 Jun 28;486(7404):537-40.</li>
@@ -29,6 +29,7 @@ Multiple applications are on the horizon for liquid biopsies, including the earl
 			<li>Emily Crowley, et al., <a href="http://www.ncbi.nlm.nih.gov/pubmed/23836314">Liquid biopsy:  monitoring cancer-genetics in the blood.</a>  Nature Reviews Oncology, July 9, 2013.
 			</li>
 		</ul>
+	</p>
 </div>
 
 The promise, of course, is that one could apply a targeted therapy, use serial liquid biopsies to determine and identify the cause of acquired resistance, and then apply a newly refined targeted therapy.  Or, do this with enough patients to identify specific trends in resistance, and apply multiple targeted therapies in combination in anticipation of acquired resistance.

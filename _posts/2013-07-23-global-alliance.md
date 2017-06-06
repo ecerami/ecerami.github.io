@@ -11,14 +11,15 @@ Last month, 70 health care, research and disease advocacy groups announced the f
 The global alliance aims to tackle a problem we have simply never had before, namely millions of people will soon have their genome sequenced, but we have no standards for sharing genomic or clinical data.  With widely adopted standards, researchers could mine integrated data sets to make novel scientific discoveries and improve human health.
 
 <div class="sidebar-left">
-	<p><b>Recommended Reading:</b>
+	<p><b>Recommended Reading:</b></p>
 	<p>
 	<ul>
-		<li>Global Alliance Whitepaper: <a href="http://www.broadinstitute.org/files/news/pdfs/GAWhitePaperJune3.pdf">Creating a Global Alliance to Enable Responsible Sharing of Genomic and Clinical Data</a>.
-		<li>David Haussler, et al., <a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html">A Million Cancer Genome Warehouse.</a>
-		<li>Alon Halevy, et al., <a href="http://www.computer.org/csdl/mags/ex/2009/02/mex2009020008-abs.html">The Unreasonable Effectiveness of Data.</a>  IEEE Intelligent Systems, Volume 24 Issue 2, March 2009.
-		<li>Steven E. Brenner,  <a href="http://www.nature.com/news/be-prepared-for-the-big-genome-leak-1.13173">Be prepared for the big genome leak.</a> Nature, 12 June 2013.  
+		<li>Global Alliance Whitepaper: <a href="http://www.broadinstitute.org/files/news/pdfs/GAWhitePaperJune3.pdf">Creating a Global Alliance to Enable Responsible Sharing of Genomic and Clinical Data</a>.</li>
+		<li>David Haussler, et al., <a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html">A Million Cancer Genome Warehouse.</a></li>
+		<li>Alon Halevy, et al., <a href="http://www.computer.org/csdl/mags/ex/2009/02/mex2009020008-abs.html">The Unreasonable Effectiveness of Data.</a>  IEEE Intelligent Systems, Volume 24 Issue 2, March 2009.</li>
+		<li>Steven E. Brenner,  <a href="http://www.nature.com/news/be-prepared-for-the-big-genome-leak-1.13173">Be prepared for the big genome leak.</a> Nature, 12 June 2013.</li>
 	</ul>
+	</p>
 </div>
 
 To capitalize on the opportunity, the global alliance will be established as a not-for-profit association (modeled after the World Wide Web Consortium W3C), that will develop common, open and ethically responsible standards for sharing genomic and clinical data. Multiple prominent organizations are also behind the effort, including the Broad Institute, the American Association for Cancer Research (AACR), Cancer Research UK, the U.S. National Institutes of Health and the Wellcome Trust Sanger Institute.
