@@ -1,3 +1,3 @@
-# biobits-blog
+# ecerami.github.io
 
-The blog engine behind biobits.org.
+Static site @ ecerami.github.io
