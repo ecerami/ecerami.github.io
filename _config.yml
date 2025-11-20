@@ -29,7 +29,7 @@ github_username:  ecerami
 
 # Build settings
 # theme: minima
-# theme: beautiful-jekyll-theme
+theme: beautiful-jekyll-theme
 remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
